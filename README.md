@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 
 <!-- section - intro -->
 
-# A Data Science Enthusiast, Software Engineer and Web Developer ❤️
+
 
 # Mansi Pravin Thanki
+### A Data Science Enthusiast, Software Engineer and Web Developer ❤️
 Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm currently seeking a full-time SDE opportunity starting from May 2023. Feel free to explore and get in touch!
 
 ## About Me
@@ -35,7 +36,7 @@ Hi, I'm Mansi Pravin Thanki, a skilled software developer specializing in Data S
 ```javascript
 const mansi = {
     pronouns: "she" | "her",
-    code: [Javascript, Python, R, SQL, C#, HTML, CSS, Java],
+    code: ["Javascript", "Python", "R", "SQL", "C#", "HTML", "CSS", "Java"],
     askMeAbout: ["web dev", "front end", "back end", "full stack", "data analytics", "tech", "coffee"],
     technologies: {
         frontEnd: {
