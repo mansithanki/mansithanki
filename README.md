@@ -81,3 +81,12 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 
 ⚡️ Software Engineer - [**Infogen Labs**](https://corp.infogen-labs.com/default.html)
 
+
+## 📫 Get in touch
+
+Linkedin - (https://www.linkedin.com/in/mansi-thanki-15721018a/)
+
+Mail - (thankimansi0202@gmail.com)
+
+Website - (https://mansithanki.github.io/Mansi_Thanki_Portfolio/)
+
