@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- section - intro -->
 
-# :blue_heart: to Build - Data Scientist & Machine Learning Engineer
+# A Data Science Enthusiast, Software Engineer and Web Developer ❤️
 
 # Mansi Pravin Thanki
 Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm currently seeking a full-time SDE opportunity starting from May 2023. Feel free to explore and get in touch!
@@ -54,7 +54,7 @@ const mansi = {
 
 <!-- section - skills -->
 
-## I work with... 💻
+## My Skillset Overview 💻
 
 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: JavaScript, Python, SQL, C#, R, C, C++, Core Java 
 
@@ -73,7 +73,7 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 
 <!-- section - job details -->
 
-## Experience 👨‍💻
+## Work Experience 👩‍💼
 ⚡️ Graduate Teaching Assistant: Database Management Systems - [**Khoury College of Computer Sciences, Northeastern University**](https://www.khoury.northeastern.edu)
 
 ⚡️ Software Engineer Intern - [**Dassault Systemes**](https://www.3ds.com/)
