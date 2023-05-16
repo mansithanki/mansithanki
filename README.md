@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm currently seeking a full-time SDE opportunity starting from May 2023. Feel free to explore and get in touch!
 
 ## About Me
-Hi, I'm Mansi Pravin Thanki, a skilled software developer specializing in Data Science and Artificial Intelligence. I recently graduated with a **Master's degree in Computer Science from Northeastern University**. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
+Hi, I'm Mansi Pravin Thanki, a skilled **Software Developer** specializing in **Data Science and Artificial Intelligence**. I recently graduated with a **Master's degree in Computer Science from Northeastern University**. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
 
 <!--Credits for template: https://github.com/amadoabaca -->
 
