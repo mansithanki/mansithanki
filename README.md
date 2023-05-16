@@ -79,14 +79,17 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 
 ⚡️ Software Engineer Intern - [**Dassault Systemes**](https://www.3ds.com/)
 
+⚡️ Customer Experience Technician - [**Northeastern IT Services**](https://its.northeastern.edu/)
+
 ⚡️ Software Engineer - [**Infogen Labs**](https://corp.infogen-labs.com/default.html)
 
 
 ## 📫 Get in touch
 
-Linkedin - (https://www.linkedin.com/in/mansi-thanki-15721018a/)
+<a href="[https://www.linkedin.com/in/abhishek-singh-dhadwal](https://www.linkedin.com/in/mansi-thanki-15721018a/)/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 
-Mail - (thankimansi0202@gmail.com)
+<a href="mailto:thankimansi0202@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
-Website - (https://mansithanki.github.io/Mansi_Thanki_Portfolio/)
+
+
 
