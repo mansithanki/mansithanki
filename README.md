@@ -41,13 +41,13 @@ const mansi = {
     technologies: {
         frontEnd: {
             css: ["bootstrap", "materialize", "tailwindcss"],
-            js: ["React", "Angular"]
+            js: ["React", "Angular", "NextJs", "Rescript"]
         },
         backEnd: {
             js: ["firebase", "node", "express"]
         },
         databases: ["MySQL","RSQLite", "PostgreSQL", "MongoDB", "Oracle"],
-        misc: ["Git", "Selenium", "Jupyter Notebook", "Tableau"]
+        misc: ["Git", "Selenium", "Jupyter Notebook", "Tableau", "Cypress"]
     }
 };
 ```
