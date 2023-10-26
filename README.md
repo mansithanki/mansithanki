@@ -47,7 +47,7 @@ const mansi = {
             js: ["firebase", "node", "express"]
         },
         databases: ["MySQL","RSQLite", "PostgreSQL", "MongoDB", "Oracle"],
-        misc: ["Git", "Selenium", "Jupyter Notebook", "Tableau", "Cypress"]
+        misc: ["Git", "Tableau", "AWS", "Selenium", "Jupyter Notebook", "Cypress"]
     }
 };
 ```
@@ -82,6 +82,12 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 ⚡️ Customer Experience Technician - [**Northeastern IT Services**](https://its.northeastern.edu/)
 
 ⚡️ Software Engineer - [**Infogen Labs**](https://corp.infogen-labs.com/default.html)
+
+⚡️ Software Engineer - [**Shine Infosoft**](https://www.shineinfosoft.in/)
+
+## Cloud:
+
+[**Certified AWS Cloud Architect**]([https://www.shineinfosoft.in/](https://www.credly.com/badges/deabd030-6871-4d6d-9363-c50a1059b656/public_url))
 
 
 ## 📫 Get in touch
