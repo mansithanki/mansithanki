@@ -63,7 +63,7 @@ const mansi = {
 
 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬/𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: AWS, HTML, JavaScript, CSS, React, XAMPP Apache Web server, Bootstrap, PHP, AngularJS, Apache Tomcat, Selenium Tool, REST APIs, Jasmine Framework, JIRA, Confluence, Postman, Jupyter Notebook, SSMS 
 
-
+![](https://komarev.com/ghpvc/?username=mansithanki&color=green)
 <!-- Python . C++ . C . SQL . HTML . CSS . BOOTSTRAP
 
 Pytorch . Keras . Tensorflow . Computer Vision . Natural Language Processing . Deep Learning
