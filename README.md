@@ -29,6 +29,8 @@ Welcome to my GitHub page! Here you'll find a collection of my projects, skills,
 ## About Me
 Hi, I'm Mansi Pravin Thanki, a skilled **Software Developer** specializing in **Data Science and Artificial Intelligence**. I recently graduated with a **Master's degree in Computer Science from Northeastern University**. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
 
+![](https://komarev.com/ghpvc/?username=mansithanki&color=green)
+
 <!--Credits for template: https://github.com/amadoabaca -->
 
 ### aboutMe.js
@@ -63,7 +65,6 @@ const mansi = {
 
 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬/𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: AWS, HTML, JavaScript, CSS, React, XAMPP Apache Web server, Bootstrap, PHP, AngularJS, Apache Tomcat, Selenium Tool, REST APIs, Jasmine Framework, JIRA, Confluence, Postman, Jupyter Notebook, SSMS 
 
-![](https://komarev.com/ghpvc/?username=mansithanki&color=green)
 <!-- Python . C++ . C . SQL . HTML . CSS . BOOTSTRAP
 
 Pytorch . Keras . Tensorflow . Computer Vision . Natural Language Processing . Deep Learning
