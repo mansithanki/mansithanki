@@ -76,7 +76,7 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 <!-- section - job details -->
 
 ## Work Experience 👩‍💼
-⚡️ Software Engineer III - [**Walmart**]([https://www.3ds.com/](https://tech.walmart.com/content/walmart-global-tech/en_us.html))
+⚡️ Software Engineer III - [**Walmart**](https://tech.walmart.com/content/walmart-global-tech/en_us.html)
 
 ⚡️ Graduate Teaching Assistant: Database Management Systems - [**Khoury College of Computer Sciences, Northeastern University**](https://www.khoury.northeastern.edu)
 
