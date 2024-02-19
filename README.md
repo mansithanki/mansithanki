@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm currently seeking a full-time SDE opportunity starting from May 2023. Feel free to explore and get in touch!
 
 ## About Me
-Hi, I'm Mansi Pravin Thanki, a skilled **Software Developer** specializing in **Data Science and Artificial Intelligence**. I recently graduated with a **Master's degree in Computer Science from Northeastern University**. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
+Hi, I'm Mansi Pravin Thanki, a skilled **Software Developer** specializing in **Data Science and Artificial Intelligence**. I am currently working as a Software Engineer III at Walmart Inc, Sunnyvale, CA. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
 
 ![](https://komarev.com/ghpvc/?username=mansithanki&color=green)
 
@@ -76,6 +76,8 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 <!-- section - job details -->
 
 ## Work Experience 👩‍💼
+⚡️ Software Engineer III - [**Walmart**]([https://www.3ds.com/](https://tech.walmart.com/content/walmart-global-tech/en_us.html))
+
 ⚡️ Graduate Teaching Assistant: Database Management Systems - [**Khoury College of Computer Sciences, Northeastern University**](https://www.khoury.northeastern.edu)
 
 ⚡️ Software Engineer Intern - [**Dassault Systemes**](https://www.3ds.com/)
@@ -84,7 +86,6 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 
 ⚡️ Software Engineer - [**Infogen Labs**](https://corp.infogen-labs.com/default.html)
 
-⚡️ Software Engineer - [**Shine Infosoft**](https://www.shineinfosoft.in/)
 
 ## Cloud:
 
